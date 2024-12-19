@@ -42,8 +42,8 @@ Ensure the following are installed:
 - **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/yourusername/blog-application.git
-   cd blog-application
+   git clone https://github.com/ZeyadElSaeed/rails-journal.git
+   cd rails-journal
 ```
 
 - **Build and Start the Docker Containers:**
